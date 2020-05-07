@@ -13,7 +13,9 @@ You should always:
   - Settings -> Collaborators -> Add Collaborator (use your TL’s handle)  
 - Clone YOUR Repo  
   - back on your machine:  
+  ```
     git clone < your-repo-address >  
+    ```
 - Create a branch (the one you are going to be working on)   
   - cd < repo directory >
   ```
