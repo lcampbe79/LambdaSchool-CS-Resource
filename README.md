@@ -4,7 +4,7 @@ A basic resource list for Lambda School students going into CS
 ## Lambda School Complete CS Wiki:
 https://github.com/LambdaSchool/CS-Wiki/wiki
 
-## Git Intro (for DS students) alway
+## Git Intro (for DS students) always fork ---> clone ---> create a new branch
 https://learn.lambdaschool.com/web1/module/rect59e95N6OSvoCd   
 **_This is very important for DS students to learn the proper Gitflow_**  
 You should always:  
