@@ -4,7 +4,7 @@ A basic resource list for Lambda School students going into CS
 ## Lambda School Complete CS Wiki:
 https://github.com/LambdaSchool/CS-Wiki/wiki
 
-## Git Intro (for DS students) always push to your branch and not master
+## Git Intro (for DS students) alway
 https://learn.lambdaschool.com/web1/module/rect59e95N6OSvoCd   
 **_This is very important for DS students to learn the proper Gitflow_**  
 You should always:  
@@ -49,9 +49,11 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Javascript-Python-cheatsheet
 Review Day 1 of Intro to Python as is can take a few hours to go through the material for Monday’s lecture   
 https://learn.lambdaschool.com/cs/module/recay2erzDlYUPSeO
 
-Fork and clone Intro to Python  
+Fork and clone Intro to Python (This is a two day project)
 https://github.com/LambdaSchool/Intro-Python-I
 
 
 
 ## Reading Resources:
+Lambda School Optional CS Reading list 
+https://github.com/LambdaSchool/CS-Wiki/wiki/Computer-Science-Reading-List
