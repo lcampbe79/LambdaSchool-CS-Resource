@@ -29,7 +29,7 @@ You should always:
    ```
    git push origin firstname-lastname
    ```
-  - on GitHub:
+- On GitHub:
     - Compare & Pull Request -> Base: YOUR MASTER (Not the Lambda Master)      
       compare fork: YOUR FORK
 - Add your TL as a reviewer on the Pull Request     
