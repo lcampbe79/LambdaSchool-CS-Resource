@@ -49,7 +49,7 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Lambda-Problem-Solving-Framework
 **Lambda School Python/Javascript Cheatsheet**  
 https://github.com/LambdaSchool/CS-Wiki/wiki/Javascript-Python-cheatsheet
 
-### __**Recommended Data Structure Reading/Visualizations Before Week 2:**__  
+## __**Recommended Data Structure Reading/Visualizations Before Week 2:**__  
 **Problem Solving with Algorithms and Data Structures (Read before Week 2)**  
 https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf   
 
@@ -61,23 +61,27 @@ https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
 **Computing Big-O notation**  
 https://github.com/LambdaSchool/CS-Wiki/wiki/Computing-Big-O  
-### Lambda School Optional CS Reading list   
-https://github.com/LambdaSchool/CS-Wiki/wiki/Computer-Science-Reading-List   
+   
+## __**Recommended Algorithm Reading/Visualizations Before Week 3:**__ 
 
-### Grokking Algorithms (Read before Week 3)      
+**Grokking Algorithms**      
 https://github.com/RbkGh/Free-Algorithm-Books/blob/master/book/Grokking%20Algorithms%20-%20An%20illustrated%20guide%20for%20programmers%20and%20other%20curious%20people.pdf   
- 
 
-### Python Writing Gotchas  
+**Sorting Visualization**   
+https://visualgo.net/bn/sorting?slide=1
+
+## Other Reading Resources:
+**Python Writing Gotchas**  
 https://docs.python-guide.org/writing/gotchas/  
-## Review these links to be better prepared:
+
+**How to ask question**   
+https://zellwk.com/blog/asking-questions/   
+
+**Lambda School Optional CS Reading list**   
+https://github.com/LambdaSchool/CS-Wiki/wiki/Computer-Science-Reading-List
 
 
-###  How to ask question   
-https://zellwk.com/blog/asking-questions/
 
 
 
 
-
-## Reading Resources:
