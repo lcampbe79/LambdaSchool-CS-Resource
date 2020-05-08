@@ -1,6 +1,8 @@
 # 🤖 Lambda_School_CS_Resource
-This is a basic resource list for Lambda School students going into CS. It's broken up according the what should be done by the first day. After that it's broken up according to what materials are covered by which week. Reading Resources are recommended to read when you have time to help supplement.   
+This is a basic resource list for Lambda School students going into CS. It's broken up according the what should be done by the first day. After that it's broken up according to what materials are covered by which week. Reading Resources are recommended to read when you have time to help supplement. 
+
 **_If you are a student coming from DS, PLEASE review proper Gitflow documented here._**    
+
 **_This is not a complete list. In CS you will be responsible for Googling anything the instructors do not cover in class._**
 
 ## Lambda School's Complete CS Wiki:
