@@ -36,26 +36,28 @@ Install python 3 and pipenv (pipenv is the python way of NPM installing- it crea
 https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 
 ## Review these links to be better prepared:
-U.P.E.R. Problem solving framework  
-https://github.com/LambdaSchool/CS-Wiki/wiki/Lambda-Problem-Solving-Framework
+### U.P.E.R. Problem solving framework  
+https://github.com/LambdaSchool/CS-Wiki/wiki/Lambda-Problem-Solving-Framework    
 
-Computing Big-O notation  
-https://github.com/LambdaSchool/CS-Wiki/wiki/Computing-Big-O
-
-How to ask question   
-https://zellwk.com/blog/asking-questions/
-
-Lambda School Python/Javascript Cheatsheet  
+### Lambda School Python/Javascript Cheatsheet  
 https://github.com/LambdaSchool/CS-Wiki/wiki/Javascript-Python-cheatsheet
 
-Review Day 1 of Intro to Python as is can take a few hours to go through the material for Monday’s lecture   
+### Review Day 1 of Intro to Python (**_This can take a few hours to go through the material for Monday’s lecture_**)   
 https://learn.lambdaschool.com/cs/module/recay2erzDlYUPSeO
 
-Fork and clone Intro to Python (This is a two day project)
+### Fork and clone Intro to Python (This is a two day project)
 https://github.com/LambdaSchool/Intro-Python-I
+
+### Computing Big-O notation  
+https://github.com/LambdaSchool/CS-Wiki/wiki/Computing-Big-O
+
+### How to ask question   
+https://zellwk.com/blog/asking-questions/
+
+
 
 
 
 ## Reading Resources:
-Lambda School Optional CS Reading list 
+Lambda School Optional CS Reading list   
 https://github.com/LambdaSchool/CS-Wiki/wiki/Computer-Science-Reading-List
