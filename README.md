@@ -37,18 +37,39 @@ You should always:
 Install python 3 and pipenv (pipenv is the python way of NPM installing- it creates a virtual environment so you can have different versions of python and other things running on different projects) **_HEADS UP: Windows Python installation can be on the more difficult side_**
 https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 
-### Review Day 1 of Intro to Python (**_This can take a few hours to go through the material for Monday’s lecture_**)   
+**Review Day 1 of Intro to Python (**_This can take a few hours to go through the material for Monday’s lecture_**)**  
 https://learn.lambdaschool.com/cs/module/recay2erzDlYUPSeO
 
-### Fork and clone Intro to Python (This is a two day project)
+**Fork and clone Intro to Python (This is a two day project)**
 https://github.com/LambdaSchool/Intro-Python-I
 
-### U.P.E.R. Problem solving framework (THIS IS A MUST READ)  
+**U.P.E.R. Problem solving framework (THIS IS A MUST READ)**  
 https://github.com/LambdaSchool/CS-Wiki/wiki/Lambda-Problem-Solving-Framework    
 
-### Lambda School Python/Javascript Cheatsheet  
+**Lambda School Python/Javascript Cheatsheet**  
 https://github.com/LambdaSchool/CS-Wiki/wiki/Javascript-Python-cheatsheet
 
+### __**Recommended Data Structure Reading/Visualizations Before Week 2:**__  
+**Problem Solving with Algorithms and Data Structures (Read before Week 2)**  
+https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf   
+
+**Data Structures and Algorithms Using Python (Read before Week 2)**  
+http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf 
+
+**Data Structure Visualizations**  
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html   
+
+**Computing Big-O notation**  
+https://github.com/LambdaSchool/CS-Wiki/wiki/Computing-Big-O  
+### Lambda School Optional CS Reading list   
+https://github.com/LambdaSchool/CS-Wiki/wiki/Computer-Science-Reading-List   
+
+### Grokking Algorithms (Read before Week 3)      
+https://github.com/RbkGh/Free-Algorithm-Books/blob/master/book/Grokking%20Algorithms%20-%20An%20illustrated%20guide%20for%20programmers%20and%20other%20curious%20people.pdf   
+ 
+
+### Python Writing Gotchas  
+https://docs.python-guide.org/writing/gotchas/  
 ## Review these links to be better prepared:
 
 
@@ -60,25 +81,3 @@ https://zellwk.com/blog/asking-questions/
 
 
 ## Reading Resources:
-
-### __**Recommended Reading/Visualizations Before Week 2:**__  
-### Problem Solving with Algorithms and Data Structures (Read before Week 2)  
-https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf   
-
-### Data Structures and Algorithms Using Python (Read before Week 2)  
-http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf 
-
-### Data Structure Visualizations  
-https://www.cs.usfca.edu/~galles/visualization/Algorithms.html   
-
-### Computing Big-O notation  
-https://github.com/LambdaSchool/CS-Wiki/wiki/Computing-Big-O  
-### Lambda School Optional CS Reading list   
-https://github.com/LambdaSchool/CS-Wiki/wiki/Computer-Science-Reading-List   
-
-### Grokking Algorithms (Read before Week 3)      
-https://github.com/RbkGh/Free-Algorithm-Books/blob/master/book/Grokking%20Algorithms%20-%20An%20illustrated%20guide%20for%20programmers%20and%20other%20curious%20people.pdf   
- 
-
-### Python Writing Gotchas  
-https://docs.python-guide.org/writing/gotchas/
