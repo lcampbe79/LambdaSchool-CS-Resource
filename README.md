@@ -50,10 +50,10 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Lambda-Problem-Solving-Framework
 https://github.com/LambdaSchool/CS-Wiki/wiki/Javascript-Python-cheatsheet
 
 ## __**Recommended Data Structure Reading/Visualizations Before Week 2:**__  
-**Problem Solving with Algorithms and Data Structures (Read before Week 2)**  
+**Problem Solving with Algorithms and Data Structures**  
 https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf   
 
-**Data Structures and Algorithms Using Python (Read before Week 2)**  
+**Data Structures and Algorithms Using Python**  
 http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf 
 
 **Data Structure Visualizations**  
@@ -61,14 +61,20 @@ https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
 **Computing Big-O notation**  
 https://github.com/LambdaSchool/CS-Wiki/wiki/Computing-Big-O  
+
+**Big O Notation**  
+https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
    
 ## __**Recommended Algorithm Reading/Visualizations Before Week 3:**__ 
-
 **Grokking Algorithms**      
 https://github.com/RbkGh/Free-Algorithm-Books/blob/master/book/Grokking%20Algorithms%20-%20An%20illustrated%20guide%20for%20programmers%20and%20other%20curious%20people.pdf   
 
-**Sorting Visualization**   
+**Sorting Visualization**     
 https://visualgo.net/bn/sorting?slide=1
+
+## __**Optional Computer Architecture Reading Before Unit 2:**__   
+**Code: The Hidden Language of Computer Hardware and Software (for Computer Architecture)**  
+https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf
 
 ## Other Reading Resources:
 **Python Writing Gotchas**  
@@ -78,10 +84,28 @@ https://docs.python-guide.org/writing/gotchas/
 https://zellwk.com/blog/asking-questions/   
 
 **Lambda School Optional CS Reading list**   
-https://github.com/LambdaSchool/CS-Wiki/wiki/Computer-Science-Reading-List
+https://github.com/LambdaSchool/CS-Wiki/wiki/Computer-Science-Reading-List  
 
+**Pipenv Docs**  
+https://pipenv-fork.readthedocs.io/en/latest/index.html  
 
+**Python PEP8 style guide**  
+https://www.python.org/dev/peps/pep-0008/  
 
+**Cracking the Code Interview**  
+http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf  
 
+**Automate the Boring Stuff**  
+https://1.droppdf.com/files/5iHzx/automate-the-boring-stuff-with-python-2015-.pdf  
 
+## Extra Learning Resources:  
+**Kaggle**  
+https://www.kaggle.com/learn/overview  
 
+**Net Ninja- Intro to Python (Youtube)**  
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK  
+
+**Colt Steele's Data Structures and Algos Masterclass (I haven’t used it but wait for it to go on sale)**  
+https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/ 
+
+**If you have other recommendations, please feel free to submit a PR to add to this list**
