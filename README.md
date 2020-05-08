@@ -25,7 +25,7 @@ You should always:
   ```
 - Push your new branch up to GitHub and make all future pushes to that branch  
    ```
-   git push -u origin firstname-lastname
+   git push origin firstname-lastname
    ```
   - on GitHub:
     - Compare & Pull Request -> Base: YOUR MASTER (Not the Lambda Master)      
