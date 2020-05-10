@@ -49,7 +49,7 @@ https://github.com/LambdaSchool/Intro-Python-I
 https://github.com/LambdaSchool/CS-Wiki/wiki/Lambda-Problem-Solving-Framework  
 
 **Essential UPER Questions**  
-[UPER Questions png](assets/UPER_Essential_Questions.png)
+![UPER Questions png](assets/UPER_Essential_Questions.png =600x776)
 
 **Lambda School Python/Javascript Cheatsheet**  
 https://github.com/LambdaSchool/CS-Wiki/wiki/Javascript-Python-cheatsheet
