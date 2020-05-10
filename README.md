@@ -42,11 +42,14 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 **Review Day 1 of Intro to Python (**_This can take a few hours to go through the material for Monday’s lecture_**)**  
 https://learn.lambdaschool.com/cs/module/recay2erzDlYUPSeO
 
-**Fork and clone Intro to Python (This is a two day project)**
+**Fork and clone Intro to Python (This is a two day project)**  
 https://github.com/LambdaSchool/Intro-Python-I
 
 **U.P.E.R. Problem solving framework (THIS IS A MUST READ)**  
-https://github.com/LambdaSchool/CS-Wiki/wiki/Lambda-Problem-Solving-Framework    
+https://github.com/LambdaSchool/CS-Wiki/wiki/Lambda-Problem-Solving-Framework  
+
+**Essential UPER Questions**  
+[UPER Questions png](assets/UPER_Essential_Questions.png)
 
 **Lambda School Python/Javascript Cheatsheet**  
 https://github.com/LambdaSchool/CS-Wiki/wiki/Javascript-Python-cheatsheet
