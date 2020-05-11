@@ -67,8 +67,11 @@ https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 **Computing Big-O notation**  
 https://github.com/LambdaSchool/CS-Wiki/wiki/Computing-Big-O  
 
-**Big O Notation**  
-https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+**Big O Notation**    
+https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/  
+
+**Big O Cheatsheet**  
+https://www.bigocheatsheet.com/
    
 ## __**Recommended Algorithm Reading/Visualizations Before Week 3:**__ 
 **Grokking Algorithms**      
