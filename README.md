@@ -62,7 +62,10 @@ https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorith
 http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf 
 
 **Data Structure Visualizations**  
-https://www.cs.usfca.edu/~galles/visualization/Algorithms.html   
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html 
+
+**Python Tutor Visualization**  
+http://www.pythontutor.com/visualize.html#mode=edit
 
 **Computing Big-O notation**  
 https://github.com/LambdaSchool/CS-Wiki/wiki/Computing-Big-O  
@@ -71,7 +74,25 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Computing-Big-O
 https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/  
 
 **Big O Cheatsheet**  
-https://www.bigocheatsheet.com/
+https://www.bigocheatsheet.com/  
+
+**Iteration vs Recursion**  
+https://medium.com/backticks-tildes/iteration-vs-recursion-c2017a483890  
+
+**Factorial Using Recursion**  
+https://www.youtube.com/watch?v=GazC3A4OQTE  
+
+**Understanding Time Complexity**  
+https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/?ref=lbp  
+
+**Breadth First Search**  
+https://www.youtube.com/watch?v=s-CYnVz-uh4&t=7s  
+
+**Depth First Search**  
+https://www.youtube.com/watch?v=AfSk24UTFS8&t=497s  
+
+**Dijkstra's Algorithm**  
+https://www.youtube.com/watch?v=GazC3A4OQTE  
    
 ## __**Recommended Algorithm Reading/Visualizations Before Week 3:**__ 
 **Grokking Algorithms**      
