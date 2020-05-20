@@ -48,7 +48,7 @@ https://github.com/LambdaSchool/Intro-Python-I
 **U.P.E.R. Problem solving framework (THIS IS A MUST READ)**  
 https://github.com/LambdaSchool/CS-Wiki/wiki/Lambda-Problem-Solving-Framework  
 
-**Essential UPER Questions**  
+**Essential UPER Questions (pdf)**  
 [UPER Questions](https://raw.githubusercontent.com/lcampbe79/LambdaSchool-CS-Resource/master/assets/UPER_Essential_Questions.png)
 
 **Lambda School Python/Javascript Cheatsheet**  
