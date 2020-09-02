@@ -106,6 +106,7 @@ https://visualgo.net/bn/sorting?slide=1
 https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf
 
 ## Other Reading Resources:
+
 **Python Writing Gotchas**  
 https://docs.python-guide.org/writing/gotchas/  
 
@@ -127,7 +128,11 @@ http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Inte
 **Automate the Boring Stuff**  
 https://1.droppdf.com/files/5iHzx/automate-the-boring-stuff-with-python-2015-.pdf  
 
-## Extra Learning Resources:  
+## Extra Learning Resources: 
+
+**Composing Programs - A free online introduction to programming and computer science.**    
+http://composingprograms.com/   
+
 **Kaggle**  
 https://www.kaggle.com/learn/overview  
 
