@@ -131,7 +131,10 @@ https://1.droppdf.com/files/5iHzx/automate-the-boring-stuff-with-python-2015-.pd
 ## Extra Learning Resources: 
 
 **Composing Programs - A free online introduction to programming and computer science.**    
-http://composingprograms.com/   
+http://composingprograms.com/ 
+
+**Composing Programs Intructor for the course above has the lectures here**    
+https://www.youtube.com/c/JohnDeNero/playlists    
 
 **Kaggle**  
 https://www.kaggle.com/learn/overview  
